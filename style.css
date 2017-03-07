@@ -1,0 +1,27 @@
+body {
+  background: #fff;
+}
+
+#bell {
+  color: white;
+  border-radius: 30px;
+  padding: 2px;
+  background-color: gray;
+}
+
+#bell:hover {
+  background-color: black;
+  color: white;
+}
+
+#search_form{
+  padding-bottom: 10px;
+}
+
+header  {
+  background-color: rgb(250,250,250);
+}
+
+.navbar {
+  border-top: none;
+}
